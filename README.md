@@ -8,7 +8,7 @@ Just so you know what you're getting into, though, let me give you a brief outli
 
 ### My Journey
 
-The seventeen years I've spent so far in the development world have been a journey of self-discovery and growth.  I started out as a simple FileMaker developer, learning the ropes at Richard Carlton Consulting, Inc.  I learned how to estimate projects, hit deadlines, communicate clearly, listen carefully, and find the best solution for my clients.  Along the way, I picked up additional programming skills as well (listed below in the "Skills" section), and became a FileMaker Certified Developer as well, a status which I have maintained.
+The seventeen years I've spent so far in the development world have been a journey of self-discovery and growth.  I started out as a simple FileMaker developer, learning the ropes at Richard Carlton Consulting, Inc., where I learned how to estimate projects, hit deadlines, communicate clearly, listen carefully, and find the best solution for my clients.  Along the way, I picked up additional programming skills as well (listed below in the "Skills" section), and became a FileMaker Certified Developer as well, a status which I have maintained.
 
 A couple of years ago, I moved out of California to Arizona (yes, it's a dry heat), and started my own Steve Allen Consulting, LLC (aka SAC), mostly to put myself in a better tax position, but also because RCC is focused primarily on FileMaker and I wanted to be able to expand beyond that focus while continuing to do work for RCC.
 
