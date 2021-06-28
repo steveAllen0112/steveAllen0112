@@ -12,7 +12,7 @@ The seventeen years I've spent so far in the development world have been a journ
 
 A couple of years ago, I moved out of California to Arizona (yes, it's a dry heat), and started my own Steve Allen Consulting, LLC (aka SAC), mostly to put myself in a better tax position, but also because RCC is focused primarily on Claris' FileMaker platform and I wanted to be able to expand beyond that focus while continuing to do work for RCC.
 
-In that capacity, I was approached by an old friend from college, who asked me to do some business and project consulting for a small business owned by a friend of his.  I was in a slow period with RCC's work, and I was intrigued by the particular problem set with which they were struggling, so I accepted.  I was able to help resolve the issues, and coached them to a much better footing.  Eventually, my company (SAC) was made a full partner in that business, in addition to our work for RCC and others.
+In this expanded capacity, I was approached by an old friend from college, who asked me to do some business and project consulting for a small business owned by a friend of his.  I was in a slow period with RCC's work, and I was intrigued by the particular problem set with which they were struggling, so I accepted.  I was able to help resolve the issues, and coached them to a much better footing.  Eventually, my company (SAC) was made a full partner in that business, in addition to our work for RCC and others.
 
 I am available to help your business as well, through business or technical consulting, development in any of the skills listed below, or second (or first!) opinions.
 
