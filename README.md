@@ -69,7 +69,7 @@ Also, although I do prefer to write "vanilla" code most of the time, sprinkling 
 |    - MySQL | 7 | |
 |    - MSSQL | 7.5 | |
 | SSRS | 6.5 | |
-| APL (Dyalog flavor) | 4 | I <3 APL! ⎕IO←1 |
+| APL (Dyalog flavor) | 5 | I <3 APL! ⎕IO←1 |
 | Dabblings | < 3 | Go, React, Vue.js, Ruby, Bash, Batch |
 
 My preferrerd editors are, in order of preference: VSCode, Sublime, Atom, Notepad++, Vim, Notepad
